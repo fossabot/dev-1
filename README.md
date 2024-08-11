@@ -12,6 +12,7 @@
 ## 🚀 Github Stats
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fosherlevi7%2Fdev.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fosherlevi7%2Fdev?ref=badge_shield)
 <!-- 
 <details>
   <summary> :zap: Expand me</summary> -->
@@ -62,3 +63,7 @@
     <img src="assets/cloud_services_providers.jpeg">
   </a>
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fosherlevi7%2Fdev.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fosherlevi7%2Fdev?ref=badge_large)
